@@ -1,2 +1,4 @@
 # Defining MITRE
- A research project to get to know the stages of MITRE and its benefits.
+ A research project to understand the stages of MITRE and the benefits in using this framework. 
+ 
+ 
